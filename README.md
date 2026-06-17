@@ -93,7 +93,7 @@ Een webapplicatie voor het bijhouden en weergeven van FIFA World Cup data en het
 - Spring Boot MVC architectuur
 
 **Links**
-- 📁 *(binnenkort beschikbaar)*
+-  [GitHub repository](https://github.com/irisplas/fifa-worldcup-app)
 
 ---
 
